@@ -1,0 +1,1000 @@
+{
+  "institutions": [
+    {
+      "id": "2",
+      "slug": "sns-academy",
+      "name": "SNS Academy",
+      "type": "school",
+      "yearFounded": 2014,
+      "location": "Coimbatore, Tamil Nadu",
+      "affiliation": "CBSE",
+      "accreditation": "Accredited",
+      "description": "India's First GenAI-Powered Design Thinking CBSE School (Patented) Your Pathway to Stanford Trained by Stanford Alumni, our students learn world-class Design Thinking Methodologies and innovation practices that open doors to elite universities worldwide.",
+      "students": 1000,
+      "faculty": 60,
+      "campusSize": "Not available",
+      "phone": "Not available",
+      "email": "Not available",
+      "website": "https://snsacademy.org",
+      "fullAddress": "Coimbatore",
+      "facilities": [
+        "SNS iHub Innovation Center",
+        "World-Class SPINE Center",
+        "5-level activity center with swimming pool, indoor cricket, gym, music studio, dance studio, theater, and more"
+      ],
+      "image": "https://images.unsplash.com/photo-1541339907198-e08756ebafe3?q=80&w=2070&auto=format&fit=crop",
+      "courses": [
+        {
+          "id": "c-2-1",
+          "slug": "nursery",
+          "courseName": "Nursery",
+          "duration": "Not available",
+          "fees": "Not available",
+          "eligibility": "Not available",
+          "description": "Play-based learning with early literacy, numeracy, and social development.",
+          "subjects": [
+            "Not available"
+          ],
+          "careerOpportunities": [
+            "Not available"
+          ],
+          "admissionProcess": [
+            "Online Application",
+            "Document Verification",
+            "Counseling"
+          ],
+          "institutionId": "2"
+        },
+        {
+          "id": "c-2-2",
+          "slug": "ukg",
+          "courseName": "UKG",
+          "duration": "Not available",
+          "fees": "Not available",
+          "eligibility": "Not available",
+          "description": "Play-based learning with early literacy, numeracy, and social development.",
+          "subjects": [
+            "Not available"
+          ],
+          "careerOpportunities": [
+            "Not available"
+          ],
+          "admissionProcess": [
+            "Online Application",
+            "Document Verification",
+            "Counseling"
+          ],
+          "institutionId": "2"
+        },
+        {
+          "id": "c-2-3",
+          "slug": "primary-school-grade-1-5",
+          "courseName": "Primary School (Grade 1-5)",
+          "duration": "Not available",
+          "fees": "Not available",
+          "eligibility": "Not available",
+          "description": "Conceptual understanding, creativity, and skill development with hands-on learning.",
+          "subjects": [
+            "Not available"
+          ],
+          "careerOpportunities": [
+            "Not available"
+          ],
+          "admissionProcess": [
+            "Online Application",
+            "Document Verification",
+            "Counseling"
+          ],
+          "institutionId": "2"
+        },
+        {
+          "id": "c-2-4",
+          "slug": "middle-school-grade-6-8",
+          "courseName": "Middle School (Grade 6-8)",
+          "duration": "Not available",
+          "fees": "Not available",
+          "eligibility": "Not available",
+          "description": "Critical thinking, problem-solving, and project-based collaborative learning.",
+          "subjects": [
+            "Not available"
+          ],
+          "careerOpportunities": [
+            "Not available"
+          ],
+          "admissionProcess": [
+            "Online Application",
+            "Document Verification",
+            "Counseling"
+          ],
+          "institutionId": "2"
+        },
+        {
+          "id": "c-2-5",
+          "slug": "secondary-school-grade-9-10",
+          "courseName": "Secondary School (Grade 9-10)",
+          "duration": "Not available",
+          "fees": "Not available",
+          "eligibility": "Not available",
+          "description": "Board exam excellence with career pathways and university preparation.",
+          "subjects": [
+            "Not available"
+          ],
+          "careerOpportunities": [
+            "Not available"
+          ],
+          "admissionProcess": [
+            "Online Application",
+            "Document Verification",
+            "Counseling"
+          ],
+          "institutionId": "2"
+        },
+        {
+          "id": "c-2-6",
+          "slug": "higher-secondary-school-grade-11-12",
+          "courseName": "Higher Secondary School (Grade 11-12)",
+          "duration": "Not available",
+          "fees": "Not available",
+          "eligibility": "Not available",
+          "description": "Board exam excellence with career pathways and university preparation.",
+          "subjects": [
+            "Not available"
+          ],
+          "careerOpportunities": [
+            "Not available"
+          ],
+          "admissionProcess": [
+            "Online Application",
+            "Document Verification",
+            "Counseling"
+          ],
+          "institutionId": "2"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "slug": "adithya-institute-of-technology",
+      "name": "Adithya Institute of Technology",
+      "type": "college",
+      "yearFounded": 2008,
+      "location": "Coimbatore, Tamil Nadu",
+      "affiliation": "Anna University, Chennai",
+      "accreditation": "NAAC (A+ grade)",
+      "description": "Adithya Institute of Technology is a private engineering college located in Coimbatore, Tamil Nadu. It offers AICTE-approved undergraduate and postgraduate programs in engineering and management.",
+      "students": "Not specified",
+      "faculty": "Not specified",
+      "campusSize": "Not specified",
+      "phone": "+91 63843 63843",
+      "email": "[email protected]",
+      "website": "https://adithyatech.edu.in/",
+      "fullAddress": "Kurumbapalayam SSKulam, Coimbatore, Tamil Nadu",
+      "facilities": [
+        "Library",
+        "Hostel",
+        "Auditorium",
+        "Sports Facilities",
+        "Medical Centre",
+        "Computer Labs"
+      ],
+      "image": "https://images.unsplash.com/photo-1541339907198-e08756ebafe3?q=80&w=2070&auto=format&fit=crop",
+      "courses": [
+        {
+          "id": "c-5-1",
+          "slug": "be-computer-science-and-engineering",
+          "courseName": "B.E. (Computer Science and Engineering)",
+          "duration": "4 years",
+          "fees": "Annual tuition fees ranging between INR 50,000 to INR 2 Lakhs",
+          "eligibility": "Class 12 marks in Physics, Chemistry, and Mathematics",
+          "description": "B.E. in Computer Science and Engineering is a 4-year undergraduate program.",
+          "subjects": [
+            "Computer Science and Engineering"
+          ],
+          "careerOpportunities": [
+            "Software development",
+            "Data analysis",
+            "Artificial intelligence"
+          ],
+          "admissionProcess": [
+            "Online Application",
+            "Document Verification",
+            "Counseling"
+          ],
+          "institutionId": "5"
+        },
+        {
+          "id": "c-5-2",
+          "slug": "be-information-technology",
+          "courseName": "B.E. (Information Technology)",
+          "duration": "4 years",
+          "fees": "Annual tuition fees ranging between INR 50,000 to INR 2 Lakhs",
+          "eligibility": "Class 12 marks in Physics, Chemistry, and Mathematics",
+          "description": "B.E. in Information Technology is a 4-year undergraduate program.",
+          "subjects": [
+            "Information Technology"
+          ],
+          "careerOpportunities": [
+            "Software development",
+            "Data analysis",
+            "Cybersecurity"
+          ],
+          "admissionProcess": [
+            "Online Application",
+            "Document Verification",
+            "Counseling"
+          ],
+          "institutionId": "5"
+        },
+        {
+          "id": "c-5-3",
+          "slug": "be-electronics-and-communication",
+          "courseName": "B.E. (Electronics and Communication)",
+          "duration": "4 years",
+          "fees": "Annual tuition fees ranging between INR 50,000 to INR 2 Lakhs",
+          "eligibility": "Class 12 marks in Physics, Chemistry, and Mathematics",
+          "description": "B.E. in Electronics and Communication is a 4-year undergraduate program.",
+          "subjects": [
+            "Electronics and Communication"
+          ],
+          "careerOpportunities": [
+            "Electronics engineering",
+            "Communication systems",
+            "Signal processing"
+          ],
+          "admissionProcess": [
+            "Online Application",
+            "Document Verification",
+            "Counseling"
+          ],
+          "institutionId": "5"
+        },
+        {
+          "id": "c-5-4",
+          "slug": "be-electrical-and-electronics",
+          "courseName": "B.E. (Electrical and Electronics)",
+          "duration": "4 years",
+          "fees": "Annual tuition fees ranging between INR 50,000 to INR 2 Lakhs",
+          "eligibility": "Class 12 marks in Physics, Chemistry, and Mathematics",
+          "description": "B.E. in Electrical and Electronics is a 4-year undergraduate program.",
+          "subjects": [
+            "Electrical and Electronics"
+          ],
+          "careerOpportunities": [
+            "Electrical engineering",
+            "Electronics engineering",
+            "Power systems"
+          ],
+          "admissionProcess": [
+            "Online Application",
+            "Document Verification",
+            "Counseling"
+          ],
+          "institutionId": "5"
+        },
+        {
+          "id": "c-5-5",
+          "slug": "be-mechanical",
+          "courseName": "B.E. (Mechanical)",
+          "duration": "4 years",
+          "fees": "Annual tuition fees ranging between INR 50,000 to INR 2 Lakhs",
+          "eligibility": "Class 12 marks in Physics, Chemistry, and Mathematics",
+          "description": "B.E. in Mechanical is a 4-year undergraduate program.",
+          "subjects": [
+            "Mechanical"
+          ],
+          "careerOpportunities": [
+            "Mechanical engineering",
+            "Automotive engineering",
+            "Aerospace engineering"
+          ],
+          "admissionProcess": [
+            "Online Application",
+            "Document Verification",
+            "Counseling"
+          ],
+          "institutionId": "5"
+        },
+        {
+          "id": "c-5-6",
+          "slug": "be-civil",
+          "courseName": "B.E. (Civil)",
+          "duration": "4 years",
+          "fees": "Annual tuition fees ranging between INR 50,000 to INR 2 Lakhs",
+          "eligibility": "Class 12 marks in Physics, Chemistry, and Mathematics",
+          "description": "B.E. in Civil is a 4-year undergraduate program.",
+          "subjects": [
+            "Civil"
+          ],
+          "careerOpportunities": [
+            "Civil engineering",
+            "Structural engineering",
+            "Transportation engineering"
+          ],
+          "admissionProcess": [
+            "Online Application",
+            "Document Verification",
+            "Counseling"
+          ],
+          "institutionId": "5"
+        },
+        {
+          "id": "c-5-7",
+          "slug": "be-artificial-intelligence-and-data-science",
+          "courseName": "B.E. (Artificial Intelligence and Data Science)",
+          "duration": "4 years",
+          "fees": "Annual tuition fees ranging between INR 50,000 to INR 2 Lakhs",
+          "eligibility": "Class 12 marks in Physics, Chemistry, and Mathematics",
+          "description": "B.E. in Artificial Intelligence and Data Science is a 4-year undergraduate program.",
+          "subjects": [
+            "Artificial Intelligence and Data Science"
+          ],
+          "careerOpportunities": [
+            "Data science",
+            "Artificial intelligence",
+            "Machine learning"
+          ],
+          "admissionProcess": [
+            "Online Application",
+            "Document Verification",
+            "Counseling"
+          ],
+          "institutionId": "5"
+        },
+        {
+          "id": "c-5-8",
+          "slug": "me-master-of-engineering",
+          "courseName": "M.E. (Master of Engineering)",
+          "duration": "2 years",
+          "fees": "Not specified",
+          "eligibility": "B.E. or B.Tech degree in relevant field",
+          "description": "M.E. is a 2-year postgraduate program.",
+          "subjects": [
+            "Not specified"
+          ],
+          "careerOpportunities": [
+            "Research and development",
+            "Teaching",
+            "Industry"
+          ],
+          "admissionProcess": [
+            "Online Application",
+            "Document Verification",
+            "Counseling"
+          ],
+          "institutionId": "5"
+        },
+        {
+          "id": "c-5-9",
+          "slug": "mba",
+          "courseName": "MBA",
+          "duration": "2 years",
+          "fees": "Not specified",
+          "eligibility": "B.E. or B.Tech degree in relevant field",
+          "description": "MBA is a 2-year postgraduate program.",
+          "subjects": [
+            "Not specified"
+          ],
+          "careerOpportunities": [
+            "Management",
+            "Leadership",
+            "Consulting"
+          ],
+          "admissionProcess": [
+            "Online Application",
+            "Document Verification",
+            "Counseling"
+          ],
+          "institutionId": "5"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "slug": "ssvm-world-school",
+      "name": "SSVM World School",
+      "type": "school",
+      "yearFounded": 2010,
+      "location": "Coimbatore, Tamil Nadu",
+      "affiliation": "CBSE",
+      "accreditation": "Accredited",
+      "description": "SSVM World School is a progressive learning environment that offers a holistic education to students.",
+      "students": 3500,
+      "faculty": 500,
+      "campusSize": "Not specified",
+      "phone": "+91 422 2226999",
+      "email": "info@ssvmws.com",
+      "website": "https://ssvmschools.com",
+      "fullAddress": "Sf No 72/2 Vaigai Nagar, Pattanam, Singanallur to Vellalore Road, Coimbatore – 641 016 Tamil Nadu.",
+      "facilities": [
+        "Dining & Cafetria",
+        "Science Labs",
+        "Football Ground",
+        "Swimming",
+        "Visual Arts",
+        "Basketball",
+        "Karate",
+        "Skating",
+        "Gymnastics",
+        "Yoga",
+        "Tennis Court",
+        "Horse Riding",
+        "Indian Dances",
+        "Western Dances",
+        "Vocals"
+      ],
+      "image": "https://images.unsplash.com/photo-1541339907198-e08756ebafe3?q=80&w=2070&auto=format&fit=crop",
+      "courses": [
+        {
+          "id": "c-3-1",
+          "slug": "nursery",
+          "courseName": "Nursery",
+          "duration": "Not specified",
+          "fees": "Not specified",
+          "eligibility": "Not specified",
+          "description": "Nursery program for young children.",
+          "subjects": [
+            "Not specified"
+          ],
+          "careerOpportunities": [
+            "Not specified"
+          ],
+          "admissionProcess": [
+            "Online Application",
+            "Document Verification",
+            "Counseling"
+          ],
+          "institutionId": "3"
+        },
+        {
+          "id": "c-3-2",
+          "slug": "kindergarten-lkg--ukg",
+          "courseName": "Kindergarten (LKG & UKG)",
+          "duration": "Not specified",
+          "fees": "Not specified",
+          "eligibility": "Not specified",
+          "description": "Kindergarten program for young children.",
+          "subjects": [
+            "Not specified"
+          ],
+          "careerOpportunities": [
+            "Not specified"
+          ],
+          "admissionProcess": [
+            "Online Application",
+            "Document Verification",
+            "Counseling"
+          ],
+          "institutionId": "3"
+        },
+        {
+          "id": "c-3-3",
+          "slug": "primary-school-grade-1-5",
+          "courseName": "Primary School (Grade 1-5)",
+          "duration": "Not specified",
+          "fees": "Not specified",
+          "eligibility": "Not specified",
+          "description": "Primary school program for students.",
+          "subjects": [
+            "Not specified"
+          ],
+          "careerOpportunities": [
+            "Not specified"
+          ],
+          "admissionProcess": [
+            "Online Application",
+            "Document Verification",
+            "Counseling"
+          ],
+          "institutionId": "3"
+        },
+        {
+          "id": "c-3-4",
+          "slug": "middle-school-grade-6-8",
+          "courseName": "Middle School (Grade 6-8)",
+          "duration": "Not specified",
+          "fees": "Not specified",
+          "eligibility": "Not specified",
+          "description": "Middle school program for students.",
+          "subjects": [
+            "Not specified"
+          ],
+          "careerOpportunities": [
+            "Not specified"
+          ],
+          "admissionProcess": [
+            "Online Application",
+            "Document Verification",
+            "Counseling"
+          ],
+          "institutionId": "3"
+        },
+        {
+          "id": "c-3-5",
+          "slug": "secondary-school-grade-9-10",
+          "courseName": "Secondary School (Grade 9-10)",
+          "duration": "Not specified",
+          "fees": "Not specified",
+          "eligibility": "Not specified",
+          "description": "Secondary school program for students.",
+          "subjects": [
+            "Not specified"
+          ],
+          "careerOpportunities": [
+            "Not specified"
+          ],
+          "admissionProcess": [
+            "Online Application",
+            "Document Verification",
+            "Counseling"
+          ],
+          "institutionId": "3"
+        },
+        {
+          "id": "c-3-6",
+          "slug": "higher-secondary-school-grade-11-12",
+          "courseName": "Higher Secondary School (Grade 11-12)",
+          "duration": "Not specified",
+          "fees": "Not specified",
+          "eligibility": "Not specified",
+          "description": "Higher secondary school program for students.",
+          "subjects": [
+            "Not specified"
+          ],
+          "careerOpportunities": [
+            "Not specified"
+          ],
+          "admissionProcess": [
+            "Online Application",
+            "Document Verification",
+            "Counseling"
+          ],
+          "institutionId": "3"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "slug": "hindusthan-college-of-arts-and-science",
+      "name": "Hindusthan College of Arts and Science",
+      "type": "college",
+      "yearFounded": 1998,
+      "location": "Coimbatore, Tamil Nadu",
+      "affiliation": "Bharathiar University",
+      "accreditation": "A++ grade by NAAC, AICTE-approved",
+      "description": "A private institution located in Coimbatore, Tamil Nadu, offering 91 programs at the UG and PG levels in computer application, management, science, and commerce.",
+      "students": "Not available",
+      "faculty": "Not available",
+      "campusSize": "Not available",
+      "phone": "Not available",
+      "email": "Not available",
+      "website": "https://hicas.ac.in",
+      "fullAddress": "Coimbatore, Tamil Nadu, India",
+      "facilities": [
+        "Not available"
+      ],
+      "image": "https://images.unsplash.com/photo-1541339907198-e08756ebafe3?q=80&w=2070&auto=format&fit=crop",
+      "courses": [
+        {
+          "id": "c-4-1",
+          "slug": "bsc-computer-science-cs",
+          "courseName": "B.Sc. Computer Science (CS)",
+          "duration": "3 years",
+          "fees": "INR 40,000 - INR 1.1 Lakhs",
+          "eligibility": "Not available",
+          "description": "3 years, 180 intake, INR 40,000 - INR 1.1 Lakhs",
+          "subjects": [
+            "Computer Science"
+          ],
+          "careerOpportunities": [
+            "IT, Software Development, Data Science"
+          ],
+          "admissionProcess": [
+            "Online Application",
+            "Document Verification",
+            "Counseling"
+          ],
+          "institutionId": "4"
+        },
+        {
+          "id": "c-4-2",
+          "slug": "bsc-information-technology-it",
+          "courseName": "B.Sc. Information Technology (IT)",
+          "duration": "3 years",
+          "fees": "INR 40,000 - INR 1.1 Lakhs",
+          "eligibility": "Not available",
+          "description": "3 years, 120 intake, INR 40,000 - INR 1.1 Lakhs",
+          "subjects": [
+            "Information Technology"
+          ],
+          "careerOpportunities": [
+            "IT, Software Development, Data Science"
+          ],
+          "admissionProcess": [
+            "Online Application",
+            "Document Verification",
+            "Counseling"
+          ],
+          "institutionId": "4"
+        },
+        {
+          "id": "c-4-3",
+          "slug": "bsc-artificial-intelligence--machine-learning-aiml",
+          "courseName": "B.Sc. Artificial Intelligence & Machine Learning (AI&ML)",
+          "duration": "3 years",
+          "fees": "INR 40,000 - INR 1.1 Lakhs",
+          "eligibility": "Not available",
+          "description": "3 years, 60 intake, INR 40,000 - INR 1.1 Lakhs",
+          "subjects": [
+            "Artificial Intelligence, Machine Learning"
+          ],
+          "careerOpportunities": [
+            "AI, ML, Data Science"
+          ],
+          "admissionProcess": [
+            "Online Application",
+            "Document Verification",
+            "Counseling"
+          ],
+          "institutionId": "4"
+        },
+        {
+          "id": "c-4-4",
+          "slug": "bsc-data-science",
+          "courseName": "B.Sc. Data Science",
+          "duration": "3 years",
+          "fees": "INR 40,000 - INR 1.1 Lakhs",
+          "eligibility": "Not available",
+          "description": "3 years, 66 intake, INR 40,000 - INR 1.1 Lakhs",
+          "subjects": [
+            "Data Science"
+          ],
+          "careerOpportunities": [
+            "Data Science, Analytics, Business Intelligence"
+          ],
+          "admissionProcess": [
+            "Online Application",
+            "Document Verification",
+            "Counseling"
+          ],
+          "institutionId": "4"
+        },
+        {
+          "id": "c-4-5",
+          "slug": "bsc-microbiologybiotech",
+          "courseName": "B.Sc. Microbiology/BioTech",
+          "duration": "3 years",
+          "fees": "INR 40,000 - INR 1.1 Lakhs",
+          "eligibility": "Not available",
+          "description": "3 years, 60 intake, INR 40,000 - INR 1.1 Lakhs",
+          "subjects": [
+            "Microbiology, Biotechnology"
+          ],
+          "careerOpportunities": [
+            "Research, Academia, Industry"
+          ],
+          "admissionProcess": [
+            "Online Application",
+            "Document Verification",
+            "Counseling"
+          ],
+          "institutionId": "4"
+        },
+        {
+          "id": "c-4-6",
+          "slug": "bsc-mathsphysicspsychology",
+          "courseName": "B.Sc. Maths/Physics/Psychology",
+          "duration": "3 years",
+          "fees": "INR 40,000 - INR 1.1 Lakhs",
+          "eligibility": "Not available",
+          "description": "3 years, 60 intake, INR 40,000 - INR 1.1 Lakhs",
+          "subjects": [
+            "Maths, Physics, Psychology"
+          ],
+          "careerOpportunities": [
+            "Research, Academia, Industry"
+          ],
+          "admissionProcess": [
+            "Online Application",
+            "Document Verification",
+            "Counseling"
+          ],
+          "institutionId": "4"
+        },
+        {
+          "id": "c-4-7",
+          "slug": "bcom-generalcorporate-secitaccounting--finprof-acc",
+          "courseName": "B.Com General/Corporate Sec./IT/Accounting & Fin./Prof. Acc.",
+          "duration": "3 years",
+          "fees": "INR 40,000 - INR 70,000",
+          "eligibility": "Not available",
+          "description": "3 years, 120 intake, INR 40,000 - INR 70,000",
+          "subjects": [
+            "Commerce, Accounting, Finance"
+          ],
+          "careerOpportunities": [
+            "Accounting, Finance, Banking"
+          ],
+          "admissionProcess": [
+            "Online Application",
+            "Document Verification",
+            "Counseling"
+          ],
+          "institutionId": "4"
+        },
+        {
+          "id": "c-4-8",
+          "slug": "bca-general",
+          "courseName": "BCA General",
+          "duration": "3 years",
+          "fees": "INR 50,000",
+          "eligibility": "Not available",
+          "description": "3 years, 180 intake, INR 50,000",
+          "subjects": [
+            "Computer Applications"
+          ],
+          "careerOpportunities": [
+            "Software Development, Data Science, IT"
+          ],
+          "admissionProcess": [
+            "Online Application",
+            "Document Verification",
+            "Counseling"
+          ],
+          "institutionId": "4"
+        },
+        {
+          "id": "c-4-9",
+          "slug": "mba",
+          "courseName": "MBA",
+          "duration": "2 years",
+          "fees": "INR 1.17 Lakhs",
+          "eligibility": "Not available",
+          "description": "2 years, 240 intake, INR 1.17 Lakhs",
+          "subjects": [
+            "Management, Marketing, Finance"
+          ],
+          "careerOpportunities": [
+            "Management, Marketing, Finance"
+          ],
+          "admissionProcess": [
+            "Online Application",
+            "Document Verification",
+            "Counseling"
+          ],
+          "institutionId": "4"
+        },
+        {
+          "id": "c-4-10",
+          "slug": "msc-computer-science",
+          "courseName": "M.Sc. Computer Science",
+          "duration": "2 years",
+          "fees": "INR 30,000 - INR 70,000",
+          "eligibility": "Not available",
+          "description": "2 years, 180 intake, INR 30,000 - INR 70,000",
+          "subjects": [
+            "Computer Science"
+          ],
+          "careerOpportunities": [
+            "Research, Academia, Industry"
+          ],
+          "admissionProcess": [
+            "Online Application",
+            "Document Verification",
+            "Counseling"
+          ],
+          "institutionId": "4"
+        },
+        {
+          "id": "c-4-11",
+          "slug": "msc-information-technology",
+          "courseName": "M.Sc. Information Technology",
+          "duration": "2 years",
+          "fees": "INR 30,000 - INR 70,000",
+          "eligibility": "Not available",
+          "description": "2 years, 60 intake, INR 30,000 - INR 70,000",
+          "subjects": [
+            "Information Technology"
+          ],
+          "careerOpportunities": [
+            "Research, Academia, Industry"
+          ],
+          "admissionProcess": [
+            "Online Application",
+            "Document Verification",
+            "Counseling"
+          ],
+          "institutionId": "4"
+        },
+        {
+          "id": "c-4-12",
+          "slug": "msc-microbiology",
+          "courseName": "M.Sc. Microbiology",
+          "duration": "2 years",
+          "fees": "INR 30,000 - INR 70,000",
+          "eligibility": "Not available",
+          "description": "2 years, 50 intake, INR 30,000 - INR 70,000",
+          "subjects": [
+            "Microbiology"
+          ],
+          "careerOpportunities": [
+            "Research, Academia, Industry"
+          ],
+          "admissionProcess": [
+            "Online Application",
+            "Document Verification",
+            "Counseling"
+          ],
+          "institutionId": "4"
+        },
+        {
+          "id": "c-4-13",
+          "slug": "msc-biotech",
+          "courseName": "M.Sc. BioTech",
+          "duration": "2 years",
+          "fees": "INR 30,000 - INR 70,000",
+          "eligibility": "Not available",
+          "description": "2 years, 60 intake, INR 30,000 - INR 70,000",
+          "subjects": [
+            "Biotechnology"
+          ],
+          "careerOpportunities": [
+            "Research, Academia, Industry"
+          ],
+          "admissionProcess": [
+            "Online Application",
+            "Document Verification",
+            "Counseling"
+          ],
+          "institutionId": "4"
+        },
+        {
+          "id": "c-4-14",
+          "slug": "msc-physics",
+          "courseName": "M.Sc. Physics",
+          "duration": "2 years",
+          "fees": "INR 30,000 - INR 70,000",
+          "eligibility": "Not available",
+          "description": "2 years, 40 intake, INR 30,000 - INR 70,000",
+          "subjects": [
+            "Physics"
+          ],
+          "careerOpportunities": [
+            "Research, Academia, Industry"
+          ],
+          "admissionProcess": [
+            "Online Application",
+            "Document Verification",
+            "Counseling"
+          ],
+          "institutionId": "4"
+        },
+        {
+          "id": "c-4-15",
+          "slug": "msc-mathsapplied-psychology",
+          "courseName": "M.Sc. Maths/Applied Psychology",
+          "duration": "2 years",
+          "fees": "INR 30,000 - INR 70,000",
+          "eligibility": "Not available",
+          "description": "2 years, 60 intake, INR 30,000 - INR 70,000",
+          "subjects": [
+            "Maths, Applied Psychology"
+          ],
+          "careerOpportunities": [
+            "Research, Academia, Industry"
+          ],
+          "admissionProcess": [
+            "Online Application",
+            "Document Verification",
+            "Counseling"
+          ],
+          "institutionId": "4"
+        },
+        {
+          "id": "c-4-16",
+          "slug": "msc-electronics--communications",
+          "courseName": "M.Sc. Electronics & Communications",
+          "duration": "2 years",
+          "fees": "INR 30,000 - INR 70,000",
+          "eligibility": "Not available",
+          "description": "2 years, 50 intake, INR 30,000 - INR 70,000",
+          "subjects": [
+            "Electronics & Communications"
+          ],
+          "careerOpportunities": [
+            "Research, Academia, Industry"
+          ],
+          "admissionProcess": [
+            "Online Application",
+            "Document Verification",
+            "Counseling"
+          ],
+          "institutionId": "4"
+        },
+        {
+          "id": "c-4-17",
+          "slug": "bba",
+          "courseName": "BBA",
+          "duration": "3 years",
+          "fees": "INR 50,000",
+          "eligibility": "Not available",
+          "description": "3 years, 120 intake, INR 50,000",
+          "subjects": [
+            "Business Administration"
+          ],
+          "careerOpportunities": [
+            "Management, Marketing, Finance"
+          ],
+          "admissionProcess": [
+            "Online Application",
+            "Document Verification",
+            "Counseling"
+          ],
+          "institutionId": "4"
+        },
+        {
+          "id": "c-4-18",
+          "slug": "bba-computer-application",
+          "courseName": "BBA Computer Application",
+          "duration": "3 years",
+          "fees": "INR 50,000",
+          "eligibility": "Not available",
+          "description": "3 years, 180 intake, INR 50,000",
+          "subjects": [
+            "Computer Applications"
+          ],
+          "careerOpportunities": [
+            "Software Development, Data Science, IT"
+          ],
+          "admissionProcess": [
+            "Online Application",
+            "Document Verification",
+            "Counseling"
+          ],
+          "institutionId": "4"
+        },
+        {
+          "id": "c-4-19",
+          "slug": "bvoc-graphic-design",
+          "courseName": "B.Voc Graphic Design",
+          "duration": "3 years",
+          "fees": "INR 70,000",
+          "eligibility": "Not available",
+          "description": "3 years, 60 intake, INR 70,000",
+          "subjects": [
+            "Graphic Design"
+          ],
+          "careerOpportunities": [
+            "Graphic Design, Visual Arts"
+          ],
+          "admissionProcess": [
+            "Online Application",
+            "Document Verification",
+            "Counseling"
+          ],
+          "institutionId": "4"
+        },
+        {
+          "id": "c-4-20",
+          "slug": "ba-english-literature",
+          "courseName": "BA English Literature",
+          "duration": "3 years",
+          "fees": "INR 50,000",
+          "eligibility": "Not available",
+          "description": "3 years, 60 intake, INR 50,000",
+          "subjects": [
+            "English Literature"
+          ],
+          "careerOpportunities": [
+            "Teaching, Writing, Editing"
+          ],
+          "admissionProcess": [
+            "Online Application",
+            "Document Verification",
+            "Counseling"
+          ],
+          "institutionId": "4"
+        }
+      ]
+    }
+  ]
+}

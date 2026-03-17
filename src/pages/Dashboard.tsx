@@ -1,8 +1,9 @@
 import { getSchools, getColleges, allCourses, institutions } from "@/data/mockData";
 import { Link } from "react-router-dom";
-import { School, GraduationCap, BookOpen, Plus } from "lucide-react";
+import { School, GraduationCap, BookOpen, Plus, Activity, RefreshCw } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { motion } from "framer-motion";
+import { SyncButton } from "@/components/SyncButton";
 
 const Dashboard = () => {
   const schools = getSchools();
@@ -27,20 +28,45 @@ const Dashboard = () => {
       </div>
 
       {/* Stats */}
-      <div className="mb-12 grid gap-6 sm:grid-cols-3">
+      <div className="mb-8 grid gap-6 sm:grid-cols-3">
         {stats.map((s, i) => (
           <motion.div
             key={s.label}
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: i * 0.1 }}
-            className="rounded-xl border bg-card p-6"
+            className="rounded-xl border bg-card p-6 shadow-sm hover:shadow-md transition-shadow"
           >
-            <s.icon className={`mb-3 h-6 w-6 ${s.color}`} />
-            <div className="text-3xl font-bold">{s.value}</div>
-            <div className="text-sm text-muted-foreground">{s.label}</div>
+            <div className="flex items-center justify-between">
+              <div>
+                <s.icon className={`mb-3 h-6 w-6 ${s.color}`} />
+                <div className="text-3xl font-bold">{s.value}</div>
+                <div className="text-sm text-muted-foreground">{s.label}</div>
+              </div>
+              <div className="h-12 w-12 rounded-full bg-primary/10 flex items-center justify-center">
+                <s.icon className="h-6 w-6 text-primary opacity-50" />
+              </div>
+            </div>
           </motion.div>
         ))}
+      </div>
+
+      {/* Automation Control */}
+      <div className="mb-12 rounded-xl border bg-gradient-to-br from-card to-accent/20 p-6 flex flex-col md:flex-row items-center justify-between gap-6">
+        <div className="flex items-center gap-4">
+          <div className="h-16 w-16 rounded-2xl bg-primary/10 flex items-center justify-center">
+            <Activity className="h-8 w-8 text-primary animate-pulse" />
+          </div>
+          <div>
+            <h3 className="text-xl font-bold">Automation Agent v2.0</h3>
+            <p className="text-sm text-muted-foreground max-w-md">
+              Synchronize school and college data from your Google Sheet and 17+ directory websites using Groq AI.
+            </p>
+          </div>
+        </div>
+        <div className="w-full md:w-auto">
+          <SyncButton />
+        </div>
       </div>
 
       {/* Recent Institutions */}
@@ -50,9 +76,8 @@ const Dashboard = () => {
           <Link
             key={inst.id}
             to={`/institution/${inst.slug}`}
-            className={`flex items-center justify-between p-4 transition-colors hover:bg-accent/50 ${
-              i < institutions.length - 1 ? "border-b" : ""
-            }`}
+            className={`flex items-center justify-between p-4 transition-colors hover:bg-accent/50 ${i < institutions.length - 1 ? "border-b" : ""
+              }`}
           >
             <div className="flex items-center gap-3">
               <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-accent">
