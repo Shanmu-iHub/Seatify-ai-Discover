@@ -69,12 +69,12 @@ const CourseDetail = () => {
             </div>
 
             {/* Detailed Content regions */}
-            <div className="space-y-12">
+            <div className="space-y-16">
               <section>
-                <h2 className="mb-4 flex items-center gap-2 text-2xl font-bold tracking-tight">
-                  <FileText className="h-6 w-6 text-primary" /> Overview
+                <h2 className="mb-6 flex items-center gap-3 text-2xl font-black tracking-tight text-foreground">
+                  <FileText className="h-7 w-7 text-primary" /> Overview
                 </h2>
-                <div className="text-base leading-relaxed text-muted-foreground/90 space-y-4">
+                <div className="text-lg leading-relaxed text-muted-foreground/90 space-y-6 font-medium tracking-tight">
                   {course.description.split('\n\n').map((para, i) => (
                     <p key={i}>{para}</p>
                   ))}
@@ -82,12 +82,12 @@ const CourseDetail = () => {
               </section>
 
               <section>
-                <h2 className="mb-6 flex items-center gap-3 text-2xl font-black tracking-tight">
+                <h2 className="mb-8 flex items-center gap-3 text-2xl font-black tracking-tight text-foreground">
                   <BookOpen className="h-7 w-7 text-primary" /> Curriculum Focus
                 </h2>
-                <div className="flex flex-wrap gap-3">
+                <div className="flex flex-wrap gap-4">
                   {course.subjects.map(s => (
-                    <Badge key={s} variant="secondary" className="rounded-xl px-5 py-2 text-sm font-bold bg-muted/50 hover:bg-primary/10 hover:text-primary transition-all">
+                    <Badge key={s} variant="secondary" className="rounded-2xl px-6 py-3 text-sm font-bold bg-secondary/50 hover:bg-primary/10 hover:text-primary transition-all border-none">
                       {s}
                     </Badge>
                   ))}
@@ -96,25 +96,19 @@ const CourseDetail = () => {
 
               {course.careerOpportunities.length > 0 && (
                 <section>
-                  <h2 className="mb-6 flex items-center gap-3 text-2xl font-black tracking-tight">
+                  <h2 className="mb-8 flex items-center gap-3 text-2xl font-black tracking-tight text-foreground">
                     <Briefcase className="h-7 w-7 text-primary" /> Career Path
                   </h2>
-                  <div className="grid gap-4 sm:grid-cols-2">
+                  <div className="grid gap-6 sm:grid-cols-2">
                     {course.careerOpportunities.map(c => (
-                      <div key={c} className="flex items-center gap-4 rounded-2xl border bg-muted/30 p-4 transition-colors hover:bg-muted/50">
-                        <div className="h-2 w-2 rounded-full bg-primary" />
-                        <span className="text-sm font-bold text-foreground/80">{c}</span>
+                      <div key={c} className="flex items-center gap-5 rounded-3xl border bg-card p-6 transition-all hover:shadow-md hover:border-primary/20 group">
+                        <div className="h-3 w-3 rounded-full bg-primary/40 group-hover:bg-primary transition-colors" />
+                        <span className="text-base font-bold text-foreground/80 tracking-tight">{c}</span>
                       </div>
                     ))}
                   </div>
                 </section>
               )}
-            </div>
-
-            <div className="mt-16 pt-8 border-t">
-              <Button size="lg" className="rounded-2xl gradient-primary border-0 text-white font-black h-14 px-10 shadow-xl shadow-primary/25 hover:shadow-2xl transition-all">
-                Enroll Today
-              </Button>
             </div>
           </div>
         </motion.div>
