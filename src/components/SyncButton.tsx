@@ -3,7 +3,8 @@ import { createPortal } from "react-dom";
 import { RefreshCw, CheckCircle2, XCircle, Loader2, Clock, ChevronDown, ChevronUp, X } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
 
-const API_URL = import.meta.env.VITE_API_URL || "http://localhost:3001";
+const isDev = import.meta.env.DEV;
+const API_URL = import.meta.env.VITE_API_URL || (isDev ? "http://localhost:3001" : "");
 
 export function SyncButton() {
     const [status, setStatus] = useState<"idle" | "running" | "done" | "error">("idle");

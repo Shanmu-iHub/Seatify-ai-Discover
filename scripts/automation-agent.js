@@ -536,10 +536,15 @@ async function run() {
         activeSlugs.add(slug);
     }
 
-    console.log(`   Total in sheet: ${allSchools.length} school(s) — ALL will be scraped & updated`);
+    console.log(`   Total in sheet: ${allSchools.length} school(s). Starting incremental sync...`);
 
     for (const row of allSchools) {
-        await processInstitution(row[schoolNameKey].trim(), row[schoolLocationKey]?.trim(), "school", "Schools");
+        const name = row[schoolNameKey].trim();
+        if (isAlreadyInDB(name)) {
+            console.log(`\n⏭️  SKIPPING: ${name} (Already in database)`);
+            continue;
+        }
+        await processInstitution(name, row[schoolLocationKey]?.trim(), "school", "Schools");
     }
 
     // ── Process Colleges ──
@@ -562,10 +567,15 @@ async function run() {
         activeSlugs.add(slug);
     }
 
-    console.log(`   Total in sheet: ${allColleges.length} college(s) — ALL will be scraped & updated`);
+    console.log(`   Total in sheet: ${allColleges.length} college(s). Starting incremental sync...`);
 
     for (const row of allColleges) {
-        await processInstitution(row[collegeNameKey].trim(), row[collegeLocationKey]?.trim(), "college", "Colleges");
+        const name = row[collegeNameKey].trim();
+        if (isAlreadyInDB(name)) {
+            console.log(`\n⏭️  SKIPPING: ${name} (Already in database)`);
+            continue;
+        }
+        await processInstitution(name, row[collegeLocationKey]?.trim(), "college", "Colleges");
     }
 
     // ── Synchronize Deletions ──

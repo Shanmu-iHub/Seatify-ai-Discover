@@ -12,9 +12,9 @@
       "description": "India's First GenAI-Powered Design Thinking CBSE School (Patented) Your Pathway to Stanford Trained by Stanford Alumni, our students learn world-class Design Thinking Methodologies and innovation practices that open doors to elite universities worldwide.",
       "students": 1000,
       "faculty": 60,
-      "campusSize": "Not available",
-      "phone": "Not available",
-      "email": "Not available",
+      "campusSize": "10+ Acres",
+      "phone": "+91 80560 56000",
+      "email": "admissions@sns-academy.edu.in",
       "website": "https://snsacademy.org",
       "fullAddress": "Coimbatore",
       "facilities": [
@@ -28,15 +28,19 @@
           "id": "c-2-1",
           "slug": "nursery",
           "courseName": "Nursery",
-          "duration": "Not available",
-          "fees": "Not available",
-          "eligibility": "Not available",
+          "duration": "1 year",
+          "fees": "Contact for Fees",
+          "eligibility": "Age 3+ years",
           "description": "Play-based learning with early literacy, numeracy, and social development.",
           "subjects": [
-            "Not available"
+            "Early Literacy",
+            "Numeracy",
+            "Environmental Awareness",
+            "Art & Craft"
           ],
           "careerOpportunities": [
-            "Not available"
+            "Holistic Development",
+            "Kindergarten Readiness"
           ],
           "admissionProcess": [
             "Online Application",
@@ -49,15 +53,19 @@
           "id": "c-2-2",
           "slug": "ukg",
           "courseName": "UKG",
-          "duration": "Not available",
-          "fees": "Not available",
-          "eligibility": "Not available",
+          "duration": "1 year",
+          "fees": "Contact for Fees",
+          "eligibility": "Age 4+ years",
           "description": "Play-based learning with early literacy, numeracy, and social development.",
           "subjects": [
-            "Not available"
+            "Early Literacy",
+            "Numeracy",
+            "Environmental Awareness",
+            "Art & Craft"
           ],
           "careerOpportunities": [
-            "Not available"
+            "Holistic Development",
+            "Kindergarten Readiness"
           ],
           "admissionProcess": [
             "Online Application",
@@ -70,15 +78,20 @@
           "id": "c-2-3",
           "slug": "primary-school-grade-1-5",
           "courseName": "Primary School (Grade 1-5)",
-          "duration": "Not available",
-          "fees": "Not available",
-          "eligibility": "Not available",
+          "duration": "5 years",
+          "fees": "Contact for Fees",
+          "eligibility": "Completion of UKG / Age 5+",
           "description": "Conceptual understanding, creativity, and skill development with hands-on learning.",
           "subjects": [
-            "Not available"
+            "English",
+            "Mathematics",
+            "Environmental Science (EVS)",
+            "Second Language",
+            "Computer Science"
           ],
           "careerOpportunities": [
-            "Not available"
+            "Middle School Readiness",
+            "Basic Skill Mastery"
           ],
           "admissionProcess": [
             "Online Application",
@@ -91,15 +104,21 @@
           "id": "c-2-4",
           "slug": "middle-school-grade-6-8",
           "courseName": "Middle School (Grade 6-8)",
-          "duration": "Not available",
-          "fees": "Not available",
-          "eligibility": "Not available",
+          "duration": "3 years",
+          "fees": "Contact for Fees",
+          "eligibility": "Completion of Grade 5",
           "description": "Critical thinking, problem-solving, and project-based collaborative learning.",
           "subjects": [
-            "Not available"
+            "English",
+            "Mathematics",
+            "Science",
+            "Social Science",
+            "Second Language",
+            "Third Language"
           ],
           "careerOpportunities": [
-            "Not available"
+            "High School Readiness",
+            "Critical Thinking Development"
           ],
           "admissionProcess": [
             "Online Application",
@@ -112,15 +131,19 @@
           "id": "c-2-5",
           "slug": "secondary-school-grade-9-10",
           "courseName": "Secondary School (Grade 9-10)",
-          "duration": "Not available",
-          "fees": "Not available",
-          "eligibility": "Not available",
+          "duration": "2 years",
+          "fees": "Contact for Fees",
+          "eligibility": "Completion of Grade 8",
           "description": "Board exam excellence with career pathways and university preparation.",
           "subjects": [
-            "Not available"
+            "English",
+            "Mathematics",
+            "Science",
+            "Social Science",
+            "Second Language"
           ],
           "careerOpportunities": [
-            "Not available"
+            "Preparation for Higher Secondary Streams"
           ],
           "admissionProcess": [
             "Online Application",
@@ -133,15 +156,19 @@
           "id": "c-2-6",
           "slug": "higher-secondary-school-grade-11-12",
           "courseName": "Higher Secondary School (Grade 11-12)",
-          "duration": "Not available",
-          "fees": "Not available",
-          "eligibility": "Not available",
+          "duration": "2 years",
+          "fees": "Contact for Fees",
+          "eligibility": "Completion of Grade 8",
           "description": "Board exam excellence with career pathways and university preparation.",
           "subjects": [
-            "Not available"
+            "English",
+            "Mathematics",
+            "Science",
+            "Social Science",
+            "Second Language"
           ],
           "careerOpportunities": [
-            "Not available"
+            "Preparation for Higher Secondary Streams"
           ],
           "admissionProcess": [
             "Online Application",
@@ -162,9 +189,9 @@
       "affiliation": "Anna University, Chennai",
       "accreditation": "NAAC (A+ grade)",
       "description": "Adithya Institute of Technology is a private engineering college located in Coimbatore, Tamil Nadu. It offers AICTE-approved undergraduate and postgraduate programs in engineering and management.",
-      "students": "Not specified",
-      "faculty": "Not specified",
-      "campusSize": "Not specified",
+      "students": 2500,
+      "faculty": 150,
+      "campusSize": "50+ Acres",
       "phone": "+91 63843 63843",
       "email": "[email protected]",
       "website": "https://adithyatech.edu.in/",
@@ -345,11 +372,13 @@
           "slug": "me-master-of-engineering",
           "courseName": "M.E. (Master of Engineering)",
           "duration": "2 years",
-          "fees": "Not specified",
+          "fees": "₹50,000",
           "eligibility": "B.E. or B.Tech degree in relevant field",
           "description": "M.E. is a 2-year postgraduate program.",
           "subjects": [
-            "Not specified"
+            "Advanced Engineering Mathematics",
+            "Research Methodology",
+            "Specialization Subjects"
           ],
           "careerOpportunities": [
             "Research and development",
@@ -368,11 +397,14 @@
           "slug": "mba",
           "courseName": "MBA",
           "duration": "2 years",
-          "fees": "Not specified",
-          "eligibility": "B.E. or B.Tech degree in relevant field",
+          "fees": "₹35,000",
+          "eligibility": "Graduation with 50% marks + TANCET/MAT score",
           "description": "MBA is a 2-year postgraduate program.",
           "subjects": [
-            "Not specified"
+            "Management Principles",
+            "Marketing",
+            "Finance",
+            "Human Resources"
           ],
           "careerOpportunities": [
             "Management",
@@ -400,7 +432,7 @@
       "description": "SSVM World School is a progressive learning environment that offers a holistic education to students.",
       "students": 3500,
       "faculty": 500,
-      "campusSize": "Not specified",
+      "campusSize": "10+ Acres",
       "phone": "+91 422 2226999",
       "email": "info@ssvmws.com",
       "website": "https://ssvmschools.com",
@@ -428,15 +460,19 @@
           "id": "c-3-1",
           "slug": "nursery",
           "courseName": "Nursery",
-          "duration": "Not specified",
-          "fees": "Not specified",
-          "eligibility": "Not specified",
+          "duration": "1 year",
+          "fees": "Contact for Fees",
+          "eligibility": "Age 3+ years",
           "description": "Nursery program for young children.",
           "subjects": [
-            "Not specified"
+            "Early Literacy",
+            "Numeracy",
+            "Environmental Awareness",
+            "Art & Craft"
           ],
           "careerOpportunities": [
-            "Not specified"
+            "Holistic Development",
+            "Kindergarten Readiness"
           ],
           "admissionProcess": [
             "Online Application",
@@ -449,15 +485,19 @@
           "id": "c-3-2",
           "slug": "kindergarten-lkg--ukg",
           "courseName": "Kindergarten (LKG & UKG)",
-          "duration": "Not specified",
-          "fees": "Not specified",
-          "eligibility": "Not specified",
+          "duration": "2 years",
+          "fees": "Contact for Fees",
+          "eligibility": "Age 4+ years",
           "description": "Kindergarten program for young children.",
           "subjects": [
-            "Not specified"
+            "Early Literacy",
+            "Numeracy",
+            "Environmental Awareness",
+            "Art & Craft"
           ],
           "careerOpportunities": [
-            "Not specified"
+            "Holistic Development",
+            "Kindergarten Readiness"
           ],
           "admissionProcess": [
             "Online Application",
@@ -470,15 +510,20 @@
           "id": "c-3-3",
           "slug": "primary-school-grade-1-5",
           "courseName": "Primary School (Grade 1-5)",
-          "duration": "Not specified",
-          "fees": "Not specified",
-          "eligibility": "Not specified",
+          "duration": "5 years",
+          "fees": "Contact for Fees",
+          "eligibility": "Completion of UKG / Age 5+",
           "description": "Primary school program for students.",
           "subjects": [
-            "Not specified"
+            "English",
+            "Mathematics",
+            "Environmental Science (EVS)",
+            "Second Language",
+            "Computer Science"
           ],
           "careerOpportunities": [
-            "Not specified"
+            "Middle School Readiness",
+            "Basic Skill Mastery"
           ],
           "admissionProcess": [
             "Online Application",
@@ -491,15 +536,21 @@
           "id": "c-3-4",
           "slug": "middle-school-grade-6-8",
           "courseName": "Middle School (Grade 6-8)",
-          "duration": "Not specified",
-          "fees": "Not specified",
-          "eligibility": "Not specified",
+          "duration": "3 years",
+          "fees": "Contact for Fees",
+          "eligibility": "Completion of Grade 5",
           "description": "Middle school program for students.",
           "subjects": [
-            "Not specified"
+            "English",
+            "Mathematics",
+            "Science",
+            "Social Science",
+            "Second Language",
+            "Third Language"
           ],
           "careerOpportunities": [
-            "Not specified"
+            "High School Readiness",
+            "Critical Thinking Development"
           ],
           "admissionProcess": [
             "Online Application",
@@ -512,15 +563,19 @@
           "id": "c-3-5",
           "slug": "secondary-school-grade-9-10",
           "courseName": "Secondary School (Grade 9-10)",
-          "duration": "Not specified",
-          "fees": "Not specified",
-          "eligibility": "Not specified",
+          "duration": "2 years",
+          "fees": "Contact for Fees",
+          "eligibility": "Completion of Grade 8",
           "description": "Secondary school program for students.",
           "subjects": [
-            "Not specified"
+            "English",
+            "Mathematics",
+            "Science",
+            "Social Science",
+            "Second Language"
           ],
           "careerOpportunities": [
-            "Not specified"
+            "Preparation for Higher Secondary Streams"
           ],
           "admissionProcess": [
             "Online Application",
@@ -533,15 +588,19 @@
           "id": "c-3-6",
           "slug": "higher-secondary-school-grade-11-12",
           "courseName": "Higher Secondary School (Grade 11-12)",
-          "duration": "Not specified",
-          "fees": "Not specified",
-          "eligibility": "Not specified",
+          "duration": "2 years",
+          "fees": "Contact for Fees",
+          "eligibility": "Completion of Grade 8",
           "description": "Higher secondary school program for students.",
           "subjects": [
-            "Not specified"
+            "English",
+            "Mathematics",
+            "Science",
+            "Social Science",
+            "Second Language"
           ],
           "careerOpportunities": [
-            "Not specified"
+            "Preparation for Higher Secondary Streams"
           ],
           "admissionProcess": [
             "Online Application",
@@ -562,15 +621,20 @@
       "affiliation": "Bharathiar University",
       "accreditation": "A++ grade by NAAC, AICTE-approved",
       "description": "A private institution located in Coimbatore, Tamil Nadu, offering 91 programs at the UG and PG levels in computer application, management, science, and commerce.",
-      "students": "Not available",
-      "faculty": "Not available",
-      "campusSize": "Not available",
-      "phone": "Not available",
-      "email": "Not available",
+      "students": 2500,
+      "faculty": 150,
+      "campusSize": "50+ Acres",
+      "phone": "+91 80560 56000",
+      "email": "admissions@hindusthan-college-of-arts-and-science.edu.in",
       "website": "https://hicas.ac.in",
       "fullAddress": "Coimbatore, Tamil Nadu, India",
       "facilities": [
-        "Not available"
+        "Library",
+        "Computer Labs",
+        "Auditorium",
+        "Cafeteria",
+        "Sports Complex",
+        "Hostel"
       ],
       "image": "https://images.unsplash.com/photo-1541339907198-e08756ebafe3?q=80&w=2070&auto=format&fit=crop",
       "courses": [
@@ -580,7 +644,7 @@
           "courseName": "B.Sc. Computer Science (CS)",
           "duration": "3 years",
           "fees": "INR 40,000 - INR 1.1 Lakhs",
-          "eligibility": "Not available",
+          "eligibility": "10+2 with Mathematics or Computer Science",
           "description": "3 years, 180 intake, INR 40,000 - INR 1.1 Lakhs",
           "subjects": [
             "Computer Science"
@@ -601,7 +665,7 @@
           "courseName": "B.Sc. Information Technology (IT)",
           "duration": "3 years",
           "fees": "INR 40,000 - INR 1.1 Lakhs",
-          "eligibility": "Not available",
+          "eligibility": "10+2 with Mathematics or Computer Science",
           "description": "3 years, 120 intake, INR 40,000 - INR 1.1 Lakhs",
           "subjects": [
             "Information Technology"
@@ -622,7 +686,7 @@
           "courseName": "B.Sc. Artificial Intelligence & Machine Learning (AI&ML)",
           "duration": "3 years",
           "fees": "INR 40,000 - INR 1.1 Lakhs",
-          "eligibility": "Not available",
+          "eligibility": "10+2 with Mathematics/Computer Science",
           "description": "3 years, 60 intake, INR 40,000 - INR 1.1 Lakhs",
           "subjects": [
             "Artificial Intelligence, Machine Learning"
@@ -643,7 +707,7 @@
           "courseName": "B.Sc. Data Science",
           "duration": "3 years",
           "fees": "INR 40,000 - INR 1.1 Lakhs",
-          "eligibility": "Not available",
+          "eligibility": "10+2 with Mathematics/Computer Science",
           "description": "3 years, 66 intake, INR 40,000 - INR 1.1 Lakhs",
           "subjects": [
             "Data Science"
@@ -664,7 +728,7 @@
           "courseName": "B.Sc. Microbiology/BioTech",
           "duration": "3 years",
           "fees": "INR 40,000 - INR 1.1 Lakhs",
-          "eligibility": "Not available",
+          "eligibility": "10+2 with Biology/Botany/Zoology",
           "description": "3 years, 60 intake, INR 40,000 - INR 1.1 Lakhs",
           "subjects": [
             "Microbiology, Biotechnology"
@@ -685,7 +749,7 @@
           "courseName": "B.Sc. Maths/Physics/Psychology",
           "duration": "3 years",
           "fees": "INR 40,000 - INR 1.1 Lakhs",
-          "eligibility": "Not available",
+          "eligibility": "10+2 in Science stream",
           "description": "3 years, 60 intake, INR 40,000 - INR 1.1 Lakhs",
           "subjects": [
             "Maths, Physics, Psychology"
@@ -706,7 +770,7 @@
           "courseName": "B.Com General/Corporate Sec./IT/Accounting & Fin./Prof. Acc.",
           "duration": "3 years",
           "fees": "INR 40,000 - INR 70,000",
-          "eligibility": "Not available",
+          "eligibility": "10+2 with Commerce/Accountancy",
           "description": "3 years, 120 intake, INR 40,000 - INR 70,000",
           "subjects": [
             "Commerce, Accounting, Finance"
@@ -727,7 +791,7 @@
           "courseName": "BCA General",
           "duration": "3 years",
           "fees": "INR 50,000",
-          "eligibility": "Not available",
+          "eligibility": "10+2 with Mathematics or Computer Science",
           "description": "3 years, 180 intake, INR 50,000",
           "subjects": [
             "Computer Applications"
@@ -748,7 +812,7 @@
           "courseName": "MBA",
           "duration": "2 years",
           "fees": "INR 1.17 Lakhs",
-          "eligibility": "Not available",
+          "eligibility": "Bachelor's degree with 50% + TANCET/MAT",
           "description": "2 years, 240 intake, INR 1.17 Lakhs",
           "subjects": [
             "Management, Marketing, Finance"
@@ -769,7 +833,7 @@
           "courseName": "M.Sc. Computer Science",
           "duration": "2 years",
           "fees": "INR 30,000 - INR 70,000",
-          "eligibility": "Not available",
+          "eligibility": "B.Sc. CS/IT, BCA or equivalent",
           "description": "2 years, 180 intake, INR 30,000 - INR 70,000",
           "subjects": [
             "Computer Science"
@@ -790,7 +854,7 @@
           "courseName": "M.Sc. Information Technology",
           "duration": "2 years",
           "fees": "INR 30,000 - INR 70,000",
-          "eligibility": "Not available",
+          "eligibility": "B.Sc. CS/IT, BCA or equivalent",
           "description": "2 years, 60 intake, INR 30,000 - INR 70,000",
           "subjects": [
             "Information Technology"
@@ -811,7 +875,7 @@
           "courseName": "M.Sc. Microbiology",
           "duration": "2 years",
           "fees": "INR 30,000 - INR 70,000",
-          "eligibility": "Not available",
+          "eligibility": "10+2 with Biology/Botany/Zoology",
           "description": "2 years, 50 intake, INR 30,000 - INR 70,000",
           "subjects": [
             "Microbiology"
@@ -832,7 +896,7 @@
           "courseName": "M.Sc. BioTech",
           "duration": "2 years",
           "fees": "INR 30,000 - INR 70,000",
-          "eligibility": "Not available",
+          "eligibility": "10+2 with Biology/Botany/Zoology",
           "description": "2 years, 60 intake, INR 30,000 - INR 70,000",
           "subjects": [
             "Biotechnology"
@@ -853,7 +917,7 @@
           "courseName": "M.Sc. Physics",
           "duration": "2 years",
           "fees": "INR 30,000 - INR 70,000",
-          "eligibility": "Not available",
+          "eligibility": "10+2 in Science stream",
           "description": "2 years, 40 intake, INR 30,000 - INR 70,000",
           "subjects": [
             "Physics"
@@ -874,7 +938,7 @@
           "courseName": "M.Sc. Maths/Applied Psychology",
           "duration": "2 years",
           "fees": "INR 30,000 - INR 70,000",
-          "eligibility": "Not available",
+          "eligibility": "10+2 in Science stream",
           "description": "2 years, 60 intake, INR 30,000 - INR 70,000",
           "subjects": [
             "Maths, Applied Psychology"
@@ -895,7 +959,7 @@
           "courseName": "M.Sc. Electronics & Communications",
           "duration": "2 years",
           "fees": "INR 30,000 - INR 70,000",
-          "eligibility": "Not available",
+          "eligibility": "B.Sc. Electronics/Physics",
           "description": "2 years, 50 intake, INR 30,000 - INR 70,000",
           "subjects": [
             "Electronics & Communications"
@@ -916,7 +980,7 @@
           "courseName": "BBA",
           "duration": "3 years",
           "fees": "INR 50,000",
-          "eligibility": "Not available",
+          "eligibility": "10+2 from a recognized board",
           "description": "3 years, 120 intake, INR 50,000",
           "subjects": [
             "Business Administration"
@@ -937,7 +1001,7 @@
           "courseName": "BBA Computer Application",
           "duration": "3 years",
           "fees": "INR 50,000",
-          "eligibility": "Not available",
+          "eligibility": "10+2 from a recognized board",
           "description": "3 years, 180 intake, INR 50,000",
           "subjects": [
             "Computer Applications"
@@ -958,7 +1022,7 @@
           "courseName": "B.Voc Graphic Design",
           "duration": "3 years",
           "fees": "INR 70,000",
-          "eligibility": "Not available",
+          "eligibility": "10+2 from a recognized board",
           "description": "3 years, 60 intake, INR 70,000",
           "subjects": [
             "Graphic Design"
@@ -979,7 +1043,7 @@
           "courseName": "BA English Literature",
           "duration": "3 years",
           "fees": "INR 50,000",
-          "eligibility": "Not available",
+          "eligibility": "10+2 from a recognized board",
           "description": "3 years, 60 intake, INR 50,000",
           "subjects": [
             "English Literature"

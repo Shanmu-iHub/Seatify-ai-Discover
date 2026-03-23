@@ -74,8 +74,18 @@ app.get("/api/sync-log", (req, res) => {
     });
 });
 
-app.listen(PORT, () => {
-    console.log(`\n🚀 Seatify API Server running at http://localhost:${PORT}`);
-    console.log(`   POST http://localhost:${PORT}/api/sync  → Trigger agent`);
-    console.log(`   GET  http://localhost:${PORT}/api/sync-log → Live logs\n`);
+// Serve frontend in production
+const distPath = path.join(__dirname, "..", "dist");
+app.use(express.static(distPath));
+
+app.get("*", (req, res) => {
+    res.sendFile(path.join(distPath, "index.html"));
+});
+
+const serverPort = process.env.PORT || PORT;
+
+app.listen(serverPort, () => {
+    console.log(`\n🚀 Seatify API Server running at http://localhost:${serverPort}`);
+    console.log(`   POST /api/sync  → Trigger agent`);
+    console.log(`   GET  /api/sync-log → Live logs\n`);
 });
